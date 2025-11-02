@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "580b66e1aaf0e58d",
+        "id": "8405e47147ffeef6",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ea03573b082dd3",
+            "id": "3b2d8b8e1c762d78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sloth Jiu-Jisu Top Game.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sloth Jiu-Jisu Top Game"
             }
           }
         ]
@@ -163,8 +167,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b0b705c428fe8990",
+  "active": "3b2d8b8e1c762d78",
   "lastOpenFiles": [
+    "Sloth Jiu-Jisu Top Game.md",
+    "Untitled",
     "Reference Notes",
     "Welcome.md",
     "Zettelkasten.md",
