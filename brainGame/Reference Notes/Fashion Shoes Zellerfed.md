@@ -3,7 +3,7 @@ Zellerfeld uses custom printers.
 
 > “Our **first generation, MONO1**, got us to hundreds of pairs. Then, **GEN2** printed tens of thousands. Now, **GEN3** will get us to millions of pairs—three times faster, multi-color ready, fully autonomous, and quick to build. Our mission is clear: printed shoes on every foot,” said Cornelius Schmitt, CEO of Zellerfeld."
 
-Zellerfeld [opened a print production](https://www.voxelmatters.com/zellerfeld-opens-3d-printed-footwear-production-hub-in-texas/) hub in Austin Texas in October 2025
+Zellerfeld [opened a print production]() hub in Austin Texas in October 2025
 
 ### Collabs
 
