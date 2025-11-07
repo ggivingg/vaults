@@ -16,4 +16,8 @@
 
 [youtube video on how to use blender for 3d printing](https://youtu.be/PHh-uNbCCs8?si=e_449Amx7jjg-9dg)
 
+[very useful video on potted plants in 3D printing blender](https://youtu.be/CrF562IazxE?si=AQx9g1bZBcK-qCp3)
+
+
+
 
