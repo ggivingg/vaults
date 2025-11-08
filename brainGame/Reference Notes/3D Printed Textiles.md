@@ -4,4 +4,7 @@
 
 [3D printed textile](https://youtu.be/W1XlcKpVsIg?si=YOx-aG76RsZqfGd7)
 
+[stratasys](https://www.stratasys.com/en/)- 3d printed textile manufacturer
+
+
 
