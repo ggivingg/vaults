@@ -1,8 +1,15 @@
 
 If Mikey could only play two guards it would be closed guard/double sleeve and collar-sleeve
+
+### Goal
+
+* The goal of collar sleeve is to remove their elbow from their body.
+* Then we fit our body into the space between their elbow and their body. 
 ### Collar Sleeve Outside Control (Partner on Knees)
 
-* The collar grip is always on the collar bone
+* The collar grip is always on the collar bone.
+* The collar grip is a U grip. 
+* The sleeve grip is also a U grip.
 * The collar sleeve is about getting one side towards you.
 * the goal of guard is to establish as many frames as possible
 * collar-sleeve makes it easier to establish four frames of the fort 
@@ -32,3 +39,19 @@ If Mikey could only play two guards it would be closed guard/double sleeve and c
 	* knee stays aligned with head
 	* leg never straightens
 	* leg never folds or you get smash passed
+
+#### Triangle from Outside Control
+* front foot on hip bone 
+* back foot on arm pit
+* high aligned with back foot knee
+* front foot moves to ribs to make it harder for them to close their elbow to body
+* front knee is the wedge that brings their elbow out of alignment by closing in on it
+* you can open and close knee to slide their elbow down into your lap
+* bring the elbow in, turn the wrist, bring the elbow in turn the wrist - until the elbow and then shoulder is in your lap 
+* once they anchor (make themselves rigid) you can pull yourself into them 
+* never let collar hand bend - it needs to stay stiff armed to let the back leg control the shoulder
+* collar grip should be in shape of U
+* once the elbow is in your lap, its a wedge that they cannot get out of
+* as you flattened them, you can move front foot from rib wedge down to hip bone
+
+
