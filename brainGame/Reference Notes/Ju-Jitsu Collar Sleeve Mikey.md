@@ -41,6 +41,7 @@ If Mikey could only play two guards it would be closed guard/double sleeve and c
 	* leg never folds or you get smash passed
 
 #### Triangle from Outside Control
+**If they don't expressly try to bury their elbow to their own knee**
 * front foot on hip bone 
 * back foot on arm pit
 * high aligned with back foot knee
@@ -53,5 +54,25 @@ If Mikey could only play two guards it would be closed guard/double sleeve and c
 * collar grip should be in shape of U
 * once the elbow is in your lap, its a wedge that they cannot get out of
 * as you flattened them, you can move front foot from rib wedge down to hip bone
-
+**If they expressly try to bury their elbow inside**
+* if their elbow is strong it means their forearm is weak
+* so you are going to be pushing the elbow in to pick up the forearm making space for foot wedge 
+* you get into a wings grip
+* you take the u grip raised up to be able to push them up (opposite of anchor down grip)
+* take pressure off your shoulders and raise up
+* your weight cant be on your neck
+* you take your upper body off the floor and raise up 
+* you punch their sleeve hand into itself to be able to flair their elbow up and put foot hip wedge
+* when you come back down their elbow will be extended enough to get your foot in as a wedge
+* you are back to the prime position to then use the jack method to get their elbow to your hip as the new wedge
+* when the elbow comes inside you are opening it up and misaligning them to get them back to the spot when you close the elbow with your knee and use the jack rotation
+**If when you push them up with the u grip wrist flicked up**
+* you anchor into them with the wings grip
+* you fill the space they are avoiding giving up
+* square your hips up to make the sit up easy
+* you can lift your body all the way up and then when you fall back you have their elbow in your hip
+* if its easy to sit up, then you anchor
+* if it is hard for you to sit up it means they are pushing to you can jackknife the elbow into lap 
+* when you go up and you try to go back down and you cant pull them down, you push their arm in and use your leg to push them away - they will either fall back or they will push against you allowing you to pull them down because their upper body is now pushing against you 
+* 
 
