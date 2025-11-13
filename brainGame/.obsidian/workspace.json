@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Fashion Diy Shoes"
             }
+          },
+          {
+            "id": "25ab5695b7689479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fashion Technology Canada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fashion Technology Canada"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,12 +237,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba2acf0950cace9a",
+  "active": "25ab5695b7689479",
   "lastOpenFiles": [
+    "Reference Notes/Fashion Diy Shoes.md",
+    "Fashion Technology Canada.md",
     "Literature Notes/Fashion YoMaison Top Secret.md",
     "Agents Intensive Kaggle.md",
     "Reference Notes/Fashion Sewing + Fabrics.md",
-    "Reference Notes/Fashion Diy Shoes.md",
     "Reference Notes/Yoga Renew 200 Hour Certification.md",
     "Reference Notes/Ju-Jitsu Strength Training.md",
     "Reference Notes/Ju-Jitsu Collar Sleeve Mikey.md",
@@ -253,7 +268,6 @@
     "Reference Notes/Construction Drywall Fixing Home Depot.md",
     "Reference Notes/3D Printers Filaments.md",
     "3D Slicers.md",
-    "Reference Notes/Sloth Jiu-Jisu Top Game.md",
     "Reference Notes",
     "Permanent Notes",
     "Literature Notes",
