@@ -11,3 +11,4 @@ a shoe lining should preferably be veg-tanned because it’s much closer to you
 * split leather (where the top most outer skin has been removed from the hide - example suede)
 * genuine leather - (bottom most split of the hide, used in mass produced products)
 * bonded leather - (man made material of leather scraps bonded together )
+
