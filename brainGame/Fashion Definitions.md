@@ -1,0 +1,5 @@
+
+Trueing
+
+Seam Allowance 
+
