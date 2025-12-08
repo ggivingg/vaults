@@ -47,4 +47,31 @@ take off seat belt while backing up for road test 6 points
 
 
 
+# Class 3 
 
+Road Signs 
+	* Triangular Trunk - special rules for the slow moving and oversized vehicles, example snow removal, tracktors hauling machinery 
+	* ![[Screenshot 2025-12-03 at 5.42.55 PM.png]]
+	 
+
+* Any suggested recommended speed ends in 5. 
+* There is a 15km difference between maximum and suggested. 
+* Cannot have a suggested and a maximum speed at the same time. It is either one or the other. (Question #24 on the exam)
+
+4 stops is a protected intersection - first come first serve. everyone must stop
+	* 5 priority rules 
+		* first come first served 
+		* if two vehicles arrive at the same time (protect your right) even if they let you go, you wave them forward because you always protect your right. 
+		*  straight before left 
+		* the shortest turns 
+			* from right to right
+			* then left to left 
+			* the speed for left turns is 15-20 kms 
+		* rotation to the right - follow the clock
+# Permit Test
+
+two colums
+1 -12
+13 -24
+
+switch high beams at 150 meters 
